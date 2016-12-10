@@ -1,0 +1,1 @@
+../../../ProyectoTexturas/ProyectoTexturas.uproject  /Game/StarterContent/Maps/Minimal_Default -Messaging -SessionId=91397B494D6B6205949DCEB4192B8F70 -SessionOwner="jsoba" -SessionName="Launch On Device" -iterative
